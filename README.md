@@ -26,5 +26,4 @@
 ### 2022 December
 - Minor (Bookmark): Improvements in URL (Website) metadata lookup
 - Minor (General): Improvement in tag visualization when tag is in disabled state
-
-
+- Major (General): Change authentication from using popup-window to using redirect. Because popup is blocked by default on IOS++
