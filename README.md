@@ -32,3 +32,4 @@
 - Minor (General): Improvements in mobile responsiveness (Responsive Web Design)
 
 ### 2023 January
+- Minor (Bookmark): New bookmarks switch - fast access to Bookmark-manager view
