@@ -33,3 +33,8 @@
 
 ### 2023 January
 - Minor (Bookmark): New bookmarks switch - fast access to Bookmark-manager view
+- Major (Location): Integration with Google Maps. Try the new map-search view!
+- Major (General): Subscription plans
+    - Functionality (QR-codes) moved from Premium to Standard plan
+    - Lower cost on Standard and Premium plan
+    - New low-cost basic plan. Gives access to one selected knowledge-item type (qygle)
