@@ -44,4 +44,4 @@
 - Minor (General): Sticky filter switch. With this 'On' the filter will continue to be active during searching.
 - Ongoing (General): Work to support dark mode (theme). Now in private preview.
 - Major (General): Replace markdown editor with WYSIWYG editor (What you see is what you get).
-    - Fast access to edit description / note on kownledge items
+    - Fast access to edit description / note on knowlege items
