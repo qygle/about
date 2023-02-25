@@ -38,3 +38,10 @@
     - Functionality (QR-codes) moved from Premium to Standard plan
     - Lower cost on Standard and Premium plan
     - New low-cost basic plan. Gives access to one selected knowledge-item type (qygle)
+
+### 2023 February
+- Minor (General): Improvement in tag visualization and other elements.
+- Minor (General): Sticky filter switch. With this 'On' the filter will continue to be active during searching.
+- Ongoing (General): Work to support dark mode (theme). Now in private preview.
+- Major (General): Replace markdown editor with WYSIWYG editor (What you see is what you get).
+    - Fast access to edit description / note on kownledge items
