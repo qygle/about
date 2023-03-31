@@ -45,3 +45,7 @@
 - Ongoing (General): Work to support dark mode (theme). Now in private preview.
 - Major (General): Replace markdown editor with WYSIWYG editor (What you see is what you get).
     - Fast access to edit description / note on knowlege items
+
+### 2023 March
+- Major (General): Log in with your Google account!
+- Minor (General): Bugfix
